@@ -1,4 +1,7 @@
 Matlab codes for solving saddle point equations under RS ansatz.
 
 - CS_L1: codes for solving RS saddle point equations of L1 minimization in Compressed sensing (CS)
-
+	- See Kabashima et al, JSTAT (2009), https://iopscience.iop.org/article/10.1088/1742-5468/2009/09/L09003
+	and its erratum https://iopscience.iop.org/article/10.1088/1742-5468/2012/07/E07001
+- Compression_by_OvercompleteBasis: codes for solving the compression problem using overcomplete basis
+	- See Nakanishi-Ohno et al, JSTAT (2016), http://dx.doi.org/10.1088/1742-5468/2016/06/063302
