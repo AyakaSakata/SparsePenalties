@@ -9,4 +9,6 @@ Matlab codes for solving saddle point equations under RS ansatz.
 	- See Krzakala et al, JSTAT (2014) https://doi.org/10.1088/1742-5468/2014/11/P11015
 - 1bitCS_Bayes: codes for Bayesian inference in 1-bit compressed sensing.
 	- See Xu et al, JSTAT (2014), https://doi.org/10.1088/1742-5468/2014/11/P11015
-
+- PenalizedRegression: codes for linear regression under various penalties
+	- See Sakata, JSTAT (2016), https://doi.org/10.1088/1742-5468/2016/12/123302 and 
+	  Obuchi and Sakata, JSTAT (2019) https://doi.org/10.1088/1751-8121/ab3e89
